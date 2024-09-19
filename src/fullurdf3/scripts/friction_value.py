@@ -15,7 +15,7 @@ def change_friction():
     rospy.loginfo("ServiceProxy for friction created")
     
     # Define the friction value to set for all joints
-    friction_value = 0.2  
+    friction_value = 0.07  
 
     # Iterate over joint indices
     for joint_index in range(2, 51):

@@ -12,7 +12,7 @@ def main():
     pubList.append(rospy.Publisher('/joint21_effort_controller/command', Float64, queue_size=36))
 
     num_joints = len(pubList)   
-    scaled_torque = -1.5  #-1
+    scaled_torque = -1.2  #-1
 
     rate = rospy.Rate(10)  # 5 Hz
 

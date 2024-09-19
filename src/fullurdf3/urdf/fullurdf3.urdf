@@ -3557,344 +3557,346 @@
     </actuator>
   </transmission>
 
+  <!--friction 0.03-->
+
   <gazebo>
   <plugin name="JointStiffnessPlugin" filename="libsoftactuator.so">
   <joint>
     <name>joint02</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
   <joint>
     <name>joint03</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
   <joint>
     <name>joint04</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
   <joint>
     <name>joint05</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
   <joint>
     <name>joint06</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
   <joint>
     <name>joint07</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint08</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint09</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint10</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint11</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint12</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint13</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint14</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint15</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint16</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint17</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint18</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint19</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint20</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint21</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint22</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint23</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint24</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint25</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint26</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint27</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint28</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint29</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint30</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint31</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint32</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint33</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint34</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint35</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint36</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint37</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint38</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint39</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint40</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint41</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint42</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint43</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint44</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint45</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint46</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint47</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint48</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint49</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   <joint>
     <name>joint50</name>
     <stiffness>0.4</stiffness>
     <damping>1</damping>
-    <friction>0.03</friction>
+    <friction>0.07</friction>
   </joint>
 
   </plugin>

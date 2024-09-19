@@ -52,7 +52,8 @@
     joint47_effort_controller 
     joint48_effort_controller
     joint49_effort_controller 
-    joint50_effort_controller"/>
+    joint50_effort_controller
+    joint_state_controller"/>
     
      <!-- Load joint controller configurations from YAML file to parameter server -->
   <rosparam file="$(find fullurdf3)/config/joint_names_fullurdf3.yaml" command="load"/>
