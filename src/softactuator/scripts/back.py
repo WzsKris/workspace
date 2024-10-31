@@ -49,7 +49,7 @@ def main():
    # max_torque = -0.5  # Define maximum torque value (can adjust as needed)
     #min_torque = -0.5  # Define minimum torque value (can adjust as needed)
     num_joints = 10   # Number of joints from joint02 to joint11
-    scaled_torque = -0.25
+    scaled_torque = -0.2 #-0.25
 
     # Subscribe to joint states topic
     rospy.Subscriber("/joint_states", JointState, joint_states_callback)

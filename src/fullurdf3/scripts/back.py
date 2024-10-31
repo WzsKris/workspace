@@ -25,10 +25,10 @@ def main():
     pubList.append(rospy.Publisher('/joint10_effort_controller/command', Float64, queue_size=9))
 
     #pub = rospy.Publisher('/joint01_effort_controller/command',Float64,queue_size=10)
-    rate = rospy.Rate(10)
+    rate = rospy.Rate(2)
 
-    num_joints = 9
-    scaled_torque = 0.25   
+    num_joints = len(pubList)
+    scaled_torque = 0.35   
     #increment = 0.063
     #max_torque = 0.25
     direction = 1

@@ -52,10 +52,10 @@ def main():
     pubList.append(rospy.Publisher('/joint50_effort_controller/command', Float64, queue_size=36))
 
     num_joints = len(pubList)
-    scaled_torque = 0.255   
-    back_torque = 0.255
+    scaled_torque = 0.318#0.425   
+    back_torque = 0.173#0.15
 
-    rate = rospy.Rate(5)  # 5 Hz (5 cycles per second)
+    rate = rospy.Rate(10)  # 5 Hz (5 cycles per second)
 
     while not rospy.is_shutdown():
         jointValList = []
